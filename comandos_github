@@ -1,0 +1,22 @@
+$ git init 
+(cria novo subdiretório .git)
+
+$ git clone https://github.com/TangerinoGT/IoT_2017
+
+$ git status
+
+$ git add
+
+$ git diff
+(To see what you’ve changed but not yet staged)
+
+$ git commit -m "Story 182: Fix benchmarks for speed"
+
+$ git log
+(lists the commits made in that repository in reverse chronological order)
+
+$ git fetch
+
+$ git pull (copiar da origem)
+
+$ git push (enviar para origem)
