@@ -1,0 +1,3 @@
+
+verificar servos conectados
+sudo i2cdetect -y 1
